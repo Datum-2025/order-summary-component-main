@@ -45,7 +45,8 @@ h1{
     text-align: center;
     color: var(--Gray_600);
     margin-bottom: 32px;
-    padding: 0 32px;
+    padding: 0 30px;
+    font-size: 16.5px;
 }
 .plan-container{
     width: 280px;
